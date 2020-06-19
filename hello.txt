@@ -2,3 +2,4 @@
 456
 00
 git --amend
+hard
